@@ -45,7 +45,7 @@ Relembrando que vocês devem realizar um commit com uma mensagem descritiva para
 
 **Q4)** Quais são as mensagens dos commits feitos por Michael Wu? "Update vocab handling", "add roc_auc metric", "Ensure MLP layers on word embeddings are not frozen" 
 
-**Q5)** Quando foi o commit feito por Ted Li e qual arquivo foi modificado? 
+**Q5)** Quando foi o commit feito por Ted Li e qual arquivo foi modificado? O commit foi feito no dia "Sat Dec 15 18:18:45 2018", o arquico alterado foi "joint_data_handler.py" 
 
 **A5)** Todas as suas respostas até agora foram feitas na branch master. Crie uma branch nova, chamada "prova" e mude para ela.
 
