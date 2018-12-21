@@ -41,7 +41,7 @@ Relembrando que vocês devem realizar um commit com uma mensagem descritiva para
 
 **Q2)** Quantos usuários diferentes realizaram commits neste repositório? 16 usuários 
 
-**Q3)** Quem foi o usuário que fez mais commits? 
+**Q3)** Quem foi o usuário que fez mais commits? Nisarg Shah 
 
 **Q4)** Quais são as mensagens dos commits feitos por Michael Wu? 
 
