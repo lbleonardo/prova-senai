@@ -53,7 +53,7 @@ Relembrando que vocês devem realizar um commit com uma mensagem descritiva para
 
 **A6)** Retorne para a branch master.
 
-**Q6)** Escreva o nome do professor da disciplina: 
+**Q7)** Escreva o nome do professor da disciplina: Felipe 
 
 **A7)** Junte as modificações feitas na branch master e na branch prova.
 
