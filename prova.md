@@ -43,7 +43,7 @@ Relembrando que vocês devem realizar um commit com uma mensagem descritiva para
 
 **Q3)** Quem foi o usuário que fez mais commits? Nisarg Shah 
 
-**Q4)** Quais são as mensagens dos commits feitos por Michael Wu? 
+**Q4)** Quais são as mensagens dos commits feitos por Michael Wu? "Update vocab handling", "add roc_auc metric", "Ensure MLP layers on word embeddings are not frozen" 
 
 **Q5)** Quando foi o commit feito por Ted Li e qual arquivo foi modificado? 
 
