@@ -33,7 +33,7 @@ Relembrando que vocês devem realizar um commit com uma mensagem descritiva para
 
 **A2)** Criem um repositório local associado a esse repositório remoto criado no Fork.
 
-**Q1)** Insira o perfil do GitHub da conta onde vocês realizaram o Fork: 
+**Q1)** Insira o perfil do GitHub da conta onde vocês realizaram o Fork: https://github.com/lbleonardo 
 
 **A3)** No computador de vocês, clonem o repositório https://github.com/facebookresearch/pytext
 
