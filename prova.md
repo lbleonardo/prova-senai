@@ -39,7 +39,7 @@ Relembrando que vocês devem realizar um commit com uma mensagem descritiva para
 
 **A4)** Respondam as perguntas de Q2 até Q5 com base no repositório PyText.
 
-**Q2)** Quantos usuários diferentes realizaram commits neste repositório? 
+**Q2)** Quantos usuários diferentes realizaram commits neste repositório? 16 usuários 
 
 **Q3)** Quem foi o usuário que fez mais commits? 
 
