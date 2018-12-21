@@ -49,7 +49,7 @@ Relembrando que vocês devem realizar um commit com uma mensagem descritiva para
 
 **A5)** Todas as suas respostas até agora foram feitas na branch master. Crie uma branch nova, chamada "prova" e mude para ela.
 
-**Q6)** Escreva o nome dos participantes do seu grupo: 
+**Q6)** Escreva o nome dos participantes do seu grupo: Leonardo Silva Brandão, Lucas Santos da Cruz, Mateus Santos de Jesus 
 
 **A6)** Retorne para a branch master.
 
